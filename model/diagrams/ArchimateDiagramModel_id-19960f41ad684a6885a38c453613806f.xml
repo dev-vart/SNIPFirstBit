@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="1.Как было"
     id="id-19960f41ad684a6885a38c453613806f">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -594,7 +594,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-af73b28728c14fde9e8e5ef0422842ec"
-      targetConnections="id-ff18998f85704a898122bb8b25653965">
+      targetConnections="id-ff18998f85704a898122bb8b25653965"
+      fillColor="#80ff00">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-480601f3e63042609f99c76a27fe5685"
@@ -878,7 +879,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fe38eb8f15464afca4dadea2b6c2a765"
-      targetConnections="id-5eaf5f0172b84edd8505b9f9aa55c7b8">
+      targetConnections="id-5eaf5f0172b84edd8505b9f9aa55c7b8"
+      fillColor="#80ff00">
     <bounds
         x="-123"
         y="778"
