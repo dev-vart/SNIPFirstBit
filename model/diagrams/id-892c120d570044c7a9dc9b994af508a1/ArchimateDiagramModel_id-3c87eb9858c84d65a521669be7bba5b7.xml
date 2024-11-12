@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Доехать до дома на такси"
+    id="id-3c87eb9858c84d65a521669be7bba5b7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2dccad74f23844d38e56855d4a22fe13">
+    <bounds
+        x="144"
+        y="168"
+        width="301"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-cec631f1860149dd9b28b9e489a4b127.xml#id-cec631f1860149dd9b28b9e489a4b127"/>
+  </children>
+</archimate:ArchimateDiagramModel>
