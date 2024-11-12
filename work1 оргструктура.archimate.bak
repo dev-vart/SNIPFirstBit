@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Структура предприятия lewmel92" id="id-b49b8339ab1c4950b7f2f1ae0fd5fb3e" version="5.0.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Структура предприятия 1" id="id-b49b8339ab1c4950b7f2f1ae0fd5fb3e" version="5.0.0">
   <folder name="Strategy" id="id-a5d6f49c94684b6bbef61aaba10d9a8c" type="strategy"/>
   <folder name="Business" id="id-f77e997f3d114f6c9de8ff98be45f9b4" type="business">
     <element xsi:type="archimate:BusinessActor" name="Генеральный директор" id="id-6358ab3997a647f4a309b3943cb0a959"/>
